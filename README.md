@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 技術スタック
 
-- 言語: Swift, Kotlin, Objective-C, Java
-- フレームワーク: SwiftUI, UIKit, Combine, Android Jetpack, Springboot
+- 言語: Swift, Kotlin, Objective-C, Java, TypeScript
+- フレームワーク: SwiftUI, UIKit, Combine, Android Jetpack, Springboot, React
 - ツール: Xcode, Android Studio, Git, GitHub, InteliJ, VSCode
 - その他: RESTful API設計, Firebase, CoreData, Realm, SQLServer
 

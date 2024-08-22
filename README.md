@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ### 技術スタック
 
-	•	言語: Swift, Kotlin, Objective-C, Java
-	•	フレームワーク: SwiftUI, UIKit, Combine, Android Jetpack, Springboot
-	•	ツール: Xcode, Android Studio, Git, GitHub, InteliJ, VSCode
-	•	その他: RESTful API設計, Firebase, CoreData, Realm, SQLServer
+- 言語: Swift, Kotlin, Objective-C, Java
+- フレームワーク: SwiftUI, UIKit, Combine, Android Jetpack, Springboot
+- ツール: Xcode, Android Studio, Git, GitHub, InteliJ, VSCode
+- その他: RESTful API設計, Firebase, CoreData, Realm, SQLServer
 
 ### 興味・関心
 
-	•	アプリケーションのパフォーマンス最適化
-	•	クリーンアーキテクチャやテスト駆動開発（TDD）の実践
-	•	チームワークにより開発パフォーマンスアップ
+- アプリケーションのパフォーマンス最適化
+- クリーンアーキテクチャやテスト駆動開発（TDD）の実践
+- チームワークにより開発パフォーマンスアップ
 
 ### 趣味
 
-  •	韓国のエンジニアが日本で活躍するよう応援する活動中。
-	•	プログラミングだけでなく、世の中に役にたつようなサービスをリリースにも挑戦中。
-	•	休日は新しい技術やフレームワークを学びつつ、アウトドアでリフレッシュしています。
+- 韓国のエンジニアが日本で活躍するよう応援する活動中。
+- プログラミングだけでなく、世の中に役にたつようなサービスをリリースにも挑戦中。
+- 休日は新しい技術やフレームワークを学びつつ、アウトドアでリフレッシュしています。
